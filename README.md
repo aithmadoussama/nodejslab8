@@ -124,11 +124,10 @@ Le projet inclut :
 # Résultat
 
 
-https://github.com/user-attachments/assets/bfe4240d-afc1-4e48-9e92-059bd2762cad
 
 
 ---
 
 ## Auteur
 
-Projet réalisé avec Node.js et Express.js dans le cadre d’un exercice pratique sur la gestion des fichiers.
+AIT HMAD OUSSAMA
